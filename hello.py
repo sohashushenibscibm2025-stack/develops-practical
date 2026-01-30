@@ -1,1 +1,10 @@
-print("Hello github")
+# Arithmatic operations program
+a = int(input("Enter value of a :"))
+b = int(input("Enter value of b :"))
+print("Addition:",a + b)
+print("Substraction:",a - b)
+print("Multiplication:",a * b)
+print("Division:",a / b)
+print("Floor division:",a // b)
+print("Modulus:",a % b)
+print("Power:",a ** b)
